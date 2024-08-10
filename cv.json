@@ -1,0 +1,148 @@
+{
+  "basics": {
+    "name": "Stallone Fernandes",
+    "label": "Software Engineer",
+    "image": "https://github.com/gonzalochale.png",
+    "summary": "A 23 Year Old Software Engineer With A Passion For Building Scalable , Efficient And Visually Appealing Software Solutions. I Graduated From Chandigarh University, Where I Honed My Skills In Software Development And Gained Valuable Experience In Various Technologies.",
+    "location": {
+      "city": "Goa",
+      "countryCode": "IN",
+      "country": "India"
+    }
+  },
+  "connect": {
+    "sectionLabel": "Experience",
+    "socials": [
+      {
+        "network": "X (Twitter)",
+        "label": "X (Twitter)",
+        "username": "Stallone2K",
+        "url": "https://x.com/Stallone2K"
+      },
+      {
+        "network": "GitHub",
+        "label": "GitHub",
+        "username": "StallonesHyper",
+        "url": "https://github.com/StallonesHyper"
+      },
+      {
+        "network": "LinkedIn",
+        "label": "LinkedIn",
+        "username": "stallone",
+        "url": "https://www.linkedin.com/in/stallone-fernandes/"
+      }
+    ]
+  },
+  "experience": {
+    "sectionLabel": "Work Experience",
+    "jobs": [
+      {
+        "company": "The Career Next",
+        "position": "Systems Engineer",
+        "startDate": "2024-02-08",
+        "endDate": "2024-05-31",
+        "summary": "Developed And Implemented Web Scraping Solutions To Efficiently Gather And Provide Valuable Data To The Team.",
+        "highlights": [
+          "Designed And Automated Automated Scripts In Python To Srape And Extract Candidates' Data From Various Online Sources.",
+          "Processed And Analyzed The Data To Identify Relevant Candidates.",
+          "Developed And Implemented A Web Scraping Solution To Gather And Process Data From Various Online Sources."
+        ]
+      },
+      {
+        "company": "Gruby India Pvt. Ltd",
+        "position": "Software Engineer",
+        "startDate": "2023-05-05",
+        "endDate": "2024-01-20",
+        "summary": "Build The FrontEnd Architecture Of Gruby's Landing Page And Admin Panel.",
+        "highlights": [
+          "Designed And Built The FrontEnd Architecture Of Gruby's Landing Page And Admin Panel, Ensuring Responsiveness Sclability And Cross Browser Compatibility.",
+          "Collaborated With The UI/UX Designers To Translate Wireframes And Mockups Into Production Code.",
+          "Integrated FrontEnd Components With The Backend APIs Ensuring Seamless Data Flow And Integration."
+        ]
+      }
+    ]
+  },
+  "stack": {
+    "sectionLabel": "Technologies",
+    "logos": [
+      { "src": "/logos/vercel.svg", "alt": "Vercel Logo" },
+      { "src": "/logos/tailwindcss.svg", "alt": "TailwindCSS Logo" },
+      { "src": "/logos/typescript.svg", "alt": "TypeScript Logo" },
+      { "src": "/logos/astro.svg", "alt": "AstroJS Logo" },
+      { "src": "/logos/react-svgrepo-com.svg", "alt": "ReactJS Logo" },
+      {
+        "src": "/logos/javascript-logo-svgrepo-com.svg",
+        "alt": "JavaScript Logo"
+      },
+      { "src": "/logos/graphql-svgrepo-com.svg", "alt": "GraphQL Logo" },
+      {
+        "src": "/logos/react-router-svgrepo-com.svg",
+        "alt": "React Router Logo"
+      },
+      { "src": "/logos/go-svgrepo-com.svg", "alt": "Go Logo" },
+      { "src": "/logos/python-svgrepo-com.svg", "alt": "NodeJS Logo" },
+      {
+        "src": "/logos/postgresql-logo-svgrepo-com.svg",
+        "alt": "PostgreSQL Logo"
+      },
+      { "src": "/logos/light-prisma-svgrepo-com.svg", "alt": "Prisma Logo" },
+      { "src": "/logos/firebase-svgrepo-com.svg", "alt": "Firebase Logo" }
+    ]
+  },
+  "personalProjects": {
+    "sectionLabel": "Personal Projects",
+    "projects": [
+      {
+        "name": "Mehar Consultants",
+        "description": "A Recruitment Agency And Consultancy Firm Focused On Helping Companies Achieve Their Growth Goals And Maximize Their Potential In The Market.",
+        "imageUrl": "/assets/Mehar.png",
+        "projectSocials": [
+          {
+            "network": "GitHub",
+            "label": "GitHub",
+            "url": "https://github.com/StallonesHyper/Mehar-Consultants"
+          },
+          {
+            "network": "Demo",
+            "label": "Demo",
+            "url": "https://meharconsultants.com/"
+          }
+        ]
+      },
+      {
+        "name": "Open AI Responses",
+        "description": "An Open AI Response Streaming Service That Provides Real-Time And Accurate AI Responses To Your Queries. - Powered By Open AI API",
+        "imageUrl": "/assets/OpenAI.png",
+        "projectSocials": [
+          {
+            "network": "GitHub",
+            "label": "GitHub",
+            "url": "https://github.com/StallonesHyper/Open-AI-Next-Application"
+          },
+          {
+            "network": "Demo",
+            "label": "Demo",
+            "url": "https://github.com/StallonesHyper/Open-AI-Next-Application"
+          }
+        ]
+      },
+      {
+        "name": "Grace Of God Studios",
+        "description": "An Apparel Store And Clothing Brand Curated By Developers And Media Creators For The Most Inspiring And Inspirational People In The World.",
+        "imageUrl": "/assets/GoG.png",
+        "projectSocials": [
+          {
+            "network": "GitHub",
+            "label": "GitHub",
+            "url": "https://github.com/StallonesHyper/Grace-Of-God-Studios"
+          },
+          {
+            "network": "Demo",
+            "label": "Demo",
+            "url": "https://grace-of-god-studios.vercel.app/"
+          }
+        ]
+      }
+    ]
+  }
+}
