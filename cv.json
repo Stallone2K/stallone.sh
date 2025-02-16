@@ -23,7 +23,7 @@
         "network": "GitHub",
         "label": "GitHub",
         "username": "StallonesHyper",
-        "url": "https://github.com/StallonesHyper"
+        "url": "https://github.com/Stallone2K/"
       },
       {
         "network": "LinkedIn",
@@ -37,22 +37,22 @@
     "sectionLabel": "Work Experience",
     "jobs": [
       {
-        "company": "The Career Next",
-        "position": "Systems Engineer",
-        "startDate": "2024-02-08",
-        "endDate": "2024-05-31",
-        "summary": "Developed And Implemented Web Scraping Solutions To Efficiently Gather And Provide Valuable Data To The Team.",
+        "company": "Dhammatek Ltd",
+        "position": "Software Engineer",
+        "startDate": "2024-09-02",
+        "endDate": "2024-12-31",
+        "summary": "Built The Automation System And Architecture For Dhammatek's Sourcing Panel And Fixing Critical Vulnerabilities.",
         "highlights": [
-          "Designed And Automated Automated Scripts In Python To Srape And Extract Candidates' Data From Various Online Sources.",
-          "Processed And Analyzed The Data To Identify Relevant Candidates.",
-          "Developed And Implemented A Web Scraping Solution To Gather And Process Data From Various Online Sources."
+          "Developed An Automation System Integrating Google Sheets With Monday.com, Streamlining Daily Data Transfers, Reducing Manual Processing By 80%, Enhancing Accuracy And Workflow Efficiency.",
+          "Designed And Developed A Headless Shopify Store Using Next.Js And Tailwind CSS, Enabling Customizable Features, Boosting SEO, And Improving Site Reliability And Performance, Resulting In A 20% Increase In Conversion Rates",
+          "Conducted Performance And Security Tests, Identifying And Resolving Vulnerabilities Such As Cross-Site Scripting (XSS) And Cross-Site Request Forgery (CSRF), Ensuring Robust Security And Optimal Performance"
         ]
       },
       {
         "company": "Gruby India Pvt. Ltd",
         "position": "Software Engineer",
         "startDate": "2023-05-05",
-        "endDate": "2024-01-20",
+        "endDate": "2024-07-20",
         "summary": "Built The FrontEnd Architecture Of Gruby's Landing Page And Admin Panel.",
         "highlights": [
           "Designed And Built The FrontEnd Architecture Of Gruby's Landing Page And Admin Panel, Ensuring Responsiveness Sclability And Cross Browser Compatibility.",
@@ -65,47 +65,77 @@
   "stack": {
     "sectionLabel": "Technologies",
     "logos": [
-      { "src": "/logos/vercel.svg", "alt": "Vercel Logo" },
-      { "src": "/logos/tailwindcss.svg", "alt": "TailwindCSS Logo" },
-      { "src": "/logos/typescript.svg", "alt": "TypeScript Logo" },
-      { "src": "/logos/astro.svg", "alt": "AstroJS Logo" },
-      { "src": "/logos/react-svgrepo-com.svg", "alt": "ReactJS Logo" },
+      {
+        "src": "/logos/vercel.svg",
+        "alt": "Vercel Logo"
+      },
+      {
+        "src": "/logos/tailwindcss.svg",
+        "alt": "TailwindCSS Logo"
+      },
+      {
+        "src": "/logos/typescript.svg",
+        "alt": "TypeScript Logo"
+      },
+      {
+        "src": "/logos/astro.svg",
+        "alt": "AstroJS Logo"
+      },
+      {
+        "src": "/logos/react-svgrepo-com.svg",
+        "alt": "ReactJS Logo"
+      },
       {
         "src": "/logos/javascript-logo-svgrepo-com.svg",
         "alt": "JavaScript Logo"
       },
-      { "src": "/logos/graphql-svgrepo-com.svg", "alt": "GraphQL Logo" },
+      {
+        "src": "/logos/graphql-svgrepo-com.svg",
+        "alt": "GraphQL Logo"
+      },
       {
         "src": "/logos/react-router-svgrepo-com.svg",
         "alt": "React Router Logo"
       },
-      { "src": "/logos/go-svgrepo-com.svg", "alt": "Go Logo" },
-      { "src": "/logos/python-svgrepo-com.svg", "alt": "NodeJS Logo" },
+      {
+        "src": "/logos/go-svgrepo-com.svg",
+        "alt": "Go Logo"
+      },
+      {
+        "src": "/logos/python-svgrepo-com.svg",
+        "alt": "NodeJS Logo"
+      },
       {
         "src": "/logos/postgresql-logo-svgrepo-com.svg",
         "alt": "PostgreSQL Logo"
       },
-      { "src": "/logos/light-prisma-svgrepo-com.svg", "alt": "Prisma Logo" },
-      { "src": "/logos/firebase-svgrepo-com.svg", "alt": "Firebase Logo" }
+      {
+        "src": "/logos/light-prisma-svgrepo-com.svg",
+        "alt": "Prisma Logo"
+      },
+      {
+        "src": "/logos/firebase-svgrepo-com.svg",
+        "alt": "Firebase Logo"
+      }
     ]
   },
   "personalProjects": {
     "sectionLabel": "Personal Projects",
     "projects": [
       {
-        "name": "Mehar Consultants",
-        "description": "A Recruitment Agency And Consultancy Firm Focused On Helping Companies Achieve Their Growth Goals And Maximize Their Potential In The Market.",
-        "imageUrl": "/assets/Mehar.png",
+        "name": "Ephaphi (πφ)",
+        "description": "A SAAS Automation Builder That Provides A Simple And Intuitive Way To Build And Manage Automation Workflows.",
+        "imageUrl": "/assets/Epaphi.png",
         "projectSocials": [
           {
             "network": "GitHub",
             "label": "GitHub",
-            "url": "https://github.com/StallonesHyper/Mehar-Consultants"
+            "url": "https://github.com/Stallone2K/epaphi"
           },
           {
             "network": "Demo",
             "label": "Demo",
-            "url": "https://meharconsultants.com/"
+            "url": "https://github.com/Stallone2K/epaphi"
           }
         ]
       },
@@ -123,23 +153,6 @@
             "network": "Demo",
             "label": "Demo",
             "url": "https://github.com/StallonesHyper/Open-AI-Next-Application"
-          }
-        ]
-      },
-      {
-        "name": "Grace Of God Studios",
-        "description": "An Apparel Store And Clothing Brand Curated By Developers And Media Creators For The Most Inspiring And Inspirational People In The World.",
-        "imageUrl": "/assets/GoG.png",
-        "projectSocials": [
-          {
-            "network": "GitHub",
-            "label": "GitHub",
-            "url": "https://github.com/StallonesHyper/Grace-Of-God-Studios"
-          },
-          {
-            "network": "Demo",
-            "label": "Demo",
-            "url": "https://grace-of-god-studios.vercel.app/"
           }
         ]
       }
