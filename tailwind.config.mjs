@@ -7,6 +7,15 @@ export default {
   content: ["./src/**/*.{astro,html,js,jsx,md,mdx,svelte,ts,tsx,vue}"],
   theme: {
     extend: {
+      fontSize: {
+        xl: "1.25rem",
+        "custom-xl": "1.5rem",
+        "custom-2xl": "10rem",
+        "custom-3xl": "15rem",
+        "custom-4xl": "20rem",
+        "custom-5xl": "25rem",
+        "custom-6xl": "30rem",
+      },
       animation: {
         "slide-logos": "slide-logos 60s linear infinite",
       },
