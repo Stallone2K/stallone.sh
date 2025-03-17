@@ -155,6 +155,23 @@
             "url": "https://github.com/StallonesHyper/Open-AI-Next-Application"
           }
         ]
+      },
+      {
+        "name": "Zenith",
+        "description": "Zenith Is A Powerful File Integrity Monitoring Tool Built With GoLang, Designed To Detect Unauthorized File Modifications, Log Changes, And Scan For Malware Using YARA Rules.",
+        "imageUrl": "/assets/Zenith.png",
+        "projectSocials": [
+          {
+            "network": "GitHub",
+            "label": "GitHub",
+            "url": "https://github.com/Stallone2K/zenith"
+          },
+          {
+            "network": "Demo",
+            "label": "Demo",
+            "url": "https://github.com/Stallone2K/zenith"
+          }
+        ]
       }
     ]
   }
