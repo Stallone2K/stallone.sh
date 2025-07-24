@@ -1,3 +1,3 @@
 ### Stallone Fernandes (./stallone.sh)
 
-Powereed By Astro.Js
+Powered By Astro.Js
